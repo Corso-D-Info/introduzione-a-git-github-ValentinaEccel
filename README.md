@@ -105,3 +105,34 @@ You can check out the GitHub Explore website [at github.com/explore](https://git
 * [GitHub's Learning Lab](https://lab.github.com/)
 * [Education community forum](https://education.github.community/)
 * [GitHub community forum](https://github.community/)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+APPUNTI LEZIONE 21/09/2023 
+
+Uno dei vantaggi è la memorizzazione di tutti i momenti del tuo progetto
+      -viene traccuata ogni riga del tuo programma
+      -viene svolto e salvato tutto in Locale
+strumento locale
+
+comadi:
+    git add indez.html
+      -porta il file creato dal file system del pc all'area di stage
+    git commit -m "messaggio"
+      -porta il file dall'area di stage al commit e l'area di stage di svuota
+
+comandi per impostare in bit nome e cognome ed email
+    git config --blobal user.name "nome e cognome"
+    git config --blobal user.email "email"
+
